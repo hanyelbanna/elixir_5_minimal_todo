@@ -1,3 +1,5 @@
+Docs:
+
 ```
 Tuples: Like lists, tuples are ordered sets of elements. Unlike lists, tuples are set contiguously in memory. This makes looking up elements in tuples cheap, whereas with a list, looking up the 8000th item involves traversing the 7999 items before it. On the other hand, copying is expensive for tuples but cheap for lists.
 
